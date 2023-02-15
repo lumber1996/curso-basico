@@ -1,0 +1,17 @@
+.cuadro {
+    margin-top: 20px;
+    border-radius: 10px;
+    border-color: gray;
+    border-width: 3.5px;
+    border-style: inset;
+    padding: 15px 15px 15px 15px;
+}
+
+.enviar {
+    margin: 20px 0px 0px 0px;
+    text-align: right;
+}
+
+.dos {
+    margin-top: 20px;
+}
